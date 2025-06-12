@@ -17,7 +17,7 @@ server.use(express.json())
 server.use('/', productsRoute)
 
 // connect to mongodb
-mongoose.connect('mongodb+srv://ajay:lokesh@cluster0.4qdcuza.mongodb.net/e-commerce?retryWrites=true&w=majority')
+mongoose.connect('MongoDB URI')
 .then(() => {
     console.log('Connected to MongoDB');
     server.listen(5000, () => console.log('Server running on http://localhost:5000'));
