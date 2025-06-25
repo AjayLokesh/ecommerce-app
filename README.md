@@ -9,7 +9,7 @@ Lets users move between:
 
 Home Page (Product List)
 Displays a list of products pulled from the MongoDB database through the backend API.
-![Home Page](images/home.png)
+![Home Page](images/Home.png)
 
 Add to Cart
 Each product can be added to a cart, with quantity controls and item removal support.
