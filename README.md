@@ -98,5 +98,5 @@ npm run dev
 ```
 This will start the frontend on http://localhost:5173 (default Vite port).
 
-# Data Persistence
+## Data Persistence
 The cart state is stored in the browser using localStorage, so even if the user closes or refreshes the page, their cart items will still be there when they return.
