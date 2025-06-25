@@ -20,11 +20,11 @@ Increase/decrease quantity of each product
 Remove items
 See individual and total prices
 Cart data is saved in the browser’s local storage, so it persists after refreshing or closing the browser.
-![Cart Page](images/cart.png)
+![Cart Page](images/Cart.png)
 
 Contact Page
 Displays contact details (email + phone number).
-![Contact Page](images/contact.png)
+![Contact Page](images/Contact.png)
 
 ## Tech stack
 ### Front end
